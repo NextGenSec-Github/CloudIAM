@@ -4,7 +4,7 @@
         {
             "Effect": "Allow",
             "Principal": "*",
-            "Action": "execute-api:Invoke",x
+            "Action": "execute-api:Invoke",
             "Resource": "arn:aws:execute-api:*:*:*"
         },
         {
